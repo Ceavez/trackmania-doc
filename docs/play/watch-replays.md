@@ -17,7 +17,7 @@ To get access to in-game ghosts for streamers and other VIPs, check out [these i
 
     This feature requires an active **Club Access** subscription.
 
-The **in-game leaderboard widget** (_Settings_ -> _Interface_ -> _Always display records_) will show you a little 👁️ icon next to each record that you can use to load the ghost into your current session.
+The **in-game leaderboard widget** (_Settings_ -> _HUD_ -> _Current track records visibility_ -> _Always_) will show you a little 👁️ icon next to each record that you can use to load the ghost into your current session.
 
 You can also spectate the ghost by selecting the player's name in the widget.
 
